@@ -111,7 +111,7 @@
   color: #838383;
 }
 
-.header__footer_list {
+.header__hours {
   list-style-type: none;
   position: absolute;
   bottom: 40px;
@@ -120,7 +120,7 @@
   padding: 0;
 }
 
-.header__footer_address {
+.header__address {
   position: absolute;
   bottom: 40px;
   right: 80px;
