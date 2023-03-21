@@ -28,11 +28,6 @@
   margin-bottom: 120px;
 }
 
-.form {
-  justify-content: center;
-  max-width: 600px;
-}
-
 .reservation__fieldset {
   border: none;
   display: flex;
