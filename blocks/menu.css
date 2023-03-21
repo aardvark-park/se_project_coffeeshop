@@ -45,9 +45,9 @@
   display: flex;
   width: 540px;
   flex-direction: column;
+  padding: 0;
   margin-bottom: 100px;
   margin-top: 0;
-  padding: 0;
 }
 
 .card:first-of-type {
