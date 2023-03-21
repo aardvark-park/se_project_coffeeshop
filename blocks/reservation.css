@@ -1,4 +1,5 @@
 .reservation {
+  box-sizing: border-box;
   height: 100vh;
   background-color: #d9e7ff;
   background-image: url(../images/background_reservation.svg);
