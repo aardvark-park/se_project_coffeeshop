@@ -14,8 +14,7 @@
   margin-bottom: 0;
   max-width: 300px;
   text-align: center;
-  font-family: Inter;
-  font-style: normal;
+  font-family: "Inter", arial, sans-serif;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
@@ -26,6 +25,7 @@
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 120px;
+  max-width: 600px;
 }
 
 .reservation__fieldset {
@@ -38,8 +38,7 @@
 
 .reservation__label {
   margin-bottom: 8px;
-  font-family: Inter;
-  font-style: normal;
+  font-family: "Inter", arial, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
@@ -51,8 +50,7 @@
 
 .reservation__label:last-of-type {
   align-self: center;
-  font-family: Inter;
-  font-style: normal;
+  font-family: "Inter", arial, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
@@ -61,8 +59,7 @@
 
 .reservation__input {
   height: 60px;
-  font-family: Inter;
-  font-style: normal;
+  font-family: "Inter", arial, sans-serif;
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
@@ -77,8 +74,7 @@
   background-color: #2f80ed;
   color: white;
   border: none;
-  font-family: Inter;
-  font-style: normal;
+  font-family: "Inter", arial, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
