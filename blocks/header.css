@@ -61,7 +61,7 @@
   margin-top: auto;
 }
 
-.header__paragraph_hours {
+.header__hours {
   display: flex;
   flex-direction: column;
   list-style-type: none;
@@ -76,7 +76,7 @@
   margin: 0;
 }
 
-.header__paragraph_address {
+.header__address {
   margin-bottom: 40px;
   margin-right: 80px;
   margin-left: auto;
