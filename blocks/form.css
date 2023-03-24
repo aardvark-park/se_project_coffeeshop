@@ -9,12 +9,13 @@
   flex-direction: column;
   flex-wrap: wrap;
   align-content: center;
+  width: 100%;
 }
 
 .form__label {
   margin-bottom: 8px;
   font-family: "Inter", arial, sans-serif;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 16px;
   line-height: 20px;
 }
@@ -29,7 +30,6 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 20px;
-  margin-left: 12px;
 }
 
 .form__input {
@@ -68,4 +68,5 @@
   background-image: url(../images/check.svg);
   vertical-align: middle;
   cursor: pointer;
+  margin-right: 12px;
 }
