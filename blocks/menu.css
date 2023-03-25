@@ -38,4 +38,7 @@
   flex-wrap: wrap;
   margin-left: auto;
   margin-right: auto;
+  gap: 100px;
+  justify-content: center;
+  padding-bottom: 100px;
 }
