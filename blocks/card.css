@@ -7,6 +7,15 @@
   margin-top: 0;
 }
 
+<<<<<<< HEAD
+=======
+.card:last-of-type {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+}
+
+>>>>>>> abda17d48b6b07100b6909c6e3c1adb3b8280a35
 .card__title {
   list-style-type: none;
   font-family: "Inter", arial, sans-serif;
